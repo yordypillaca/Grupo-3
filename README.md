@@ -1,6 +1,6 @@
 # [ChanchiTec](http://127.0.0.1:5500/Paginaprincipal.html)
 
-[![ChanchiTec](https://i.postimg.cc/xdyZQgFR/Captura-de-pantalla-2024-07-08-021759.png)]
+![ChanchiTec](https://i.postimg.cc/xdyZQgFR/Captura-de-pantalla-2024-07-08-021759.png)
 (http://127.0.0.1:5500/Paginaprincipal.html)
 
 # 🖥️ Equipo Digital 🖥️
